@@ -1,0 +1,32 @@
+{
+  "Empresa_idEmpresa": 1,
+  "idFuncionario": 0,
+  "carteira": 555,
+  "cpf": 566,
+  "telefone": "string",
+  "rua": "string",
+  "cep": 566,
+  "nome": "string",
+  "usuario": "ola",  
+  "senha": "1234",
+  "cargo": "string",
+  "admissao": "2024-07-25T16:45:47.641Z",
+  "formacao": "string",
+  "departamento": "string",
+  "salario": 566,
+  "cargaHoraria": 566,
+  "idade": 566
+}
+
+
+{
+  "idEmpresa": 0,
+  "cnpj": 56,
+  "nome": "string",
+  "rua": "string",
+  "numero": 556,
+  "cep": 556,
+  "telefone": "string",
+  "email": "string",
+  "caixa": 55,11
+}
